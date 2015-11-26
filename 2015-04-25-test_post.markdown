@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Test Post"
+date:   2015-04-25 14:34:25
+categories: mediator feature
+tags: featured
+image: /assets/article_images/2015-04-25-test_post/golden_gate_bw.JPG
+---
+#Super Test Post Here
+
+Examples for different formats and css features
+
+#Header Formats
+#Header1
+##Header2
+
+#Blockquotes
+>Awesome test post content goes here so your readers can go crazy!
+
+#Lists
+##orderd lists
+1. one
+2. two
+3. three
+
+##unorderd lists
+- Apple
+- Banana
+- Plum
+
+#Links
+This is website I like to read: [ESPN](http://espn.go.com/ "ESPN").
+
+#Combinations
+>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+>
+> - Apple
+> - Banana
+> - Plum
