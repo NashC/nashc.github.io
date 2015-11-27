@@ -4,7 +4,7 @@ title:  "Test Post"
 date:   2015-04-25 14:34:25
 categories: mediator feature
 tags: featured
-image: /assets/article_images/2015-04-25-test_post/golden_gate_bw.JPG
+image: /assets/article_images/2015-04-25-test_post/golden_gate_bw.jpg
 ---
 #Super Test Post Here
 
