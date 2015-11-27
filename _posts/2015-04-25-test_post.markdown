@@ -17,6 +17,10 @@ Examples for different formats and css features
 #Blockquotes
 >Awesome test post content goes here so your readers can go crazy!
 
+```python
+print 'Hello World'
+```
+
 #Lists
 ##orderd lists
 1. uno
