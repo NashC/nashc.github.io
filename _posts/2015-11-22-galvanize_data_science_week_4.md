@@ -7,8 +7,6 @@ tags: featured datascience galvanize bootcamp
 image:
 ---
 
-#Week 4 - Supervised Learning
-
 **Day 16: K-Nearest-Neighbors and Decision Trees**  
 This week we continue our exploration of supervised learning models. [Supervised Learning](https://en.wikipedia.org/wiki/Supervised_learning) is used when we know the desired outcomes in our training set. For example, we have a dataset full of variables around different emails and then a classification whether the email was spam or not. We could then train our model on this dataset and use cross-validation to determine if our model can predict the proper classification on another part of our dataset. Last week’s topics of Linear Regression, Logistic Regression and Gradient Descent were all used on supervised learning problems.
 
@@ -41,7 +39,7 @@ Now we’re talking about profit, which being a finance guy, is something I like
 
 Not that all of our exercises don’t have some real world application, but it was nice to work on one that was simple to understand and relevant to many business decisions I’ve made in the past.
 
-**Summary**  
+**Weekly Summary**  
 Each week is going by faster than the last one. As we briefly touched on several different machine learning algorithms each day this week, ones that could easily take a week or month to study independently, I found the lectures becoming less useful. Even when I do the pre-reading and have some idea what we’re talking about, the theory and high level math can be tough to grasp and integrate on the white board. However, when we get into the sprints, that’s where it all becomes clear to me. By working through some actual problems myself, my brain can begin to combine what was discussed in lecture with the exercises. Speaking with one of the Data Scientists in Residence, he said most students either learn better in the classroom or the exercises. We have several Ph.D’s in our class and I’m sure many of them are very comfortable with the theoretical lectures. I’m finding this true of coding in general as well. When I read about a problem or coding technique, I kind of get it. But when I try to solve some of the problems myself, that’s when I really start to understand.
 
 To wrap up, this week was a lot of fun and I’m still pushing the limits of what I can learn. Next week is Thanksgiving, so we only have two days of class. This should allow many of the students, including myself, a chance to do some deeper review on the material we’ve covered to date. I’m also going to use the Thanksgiving break to launch this blog. I need to pick a template, edit the drafts I’ve written so far, upload it to some hosting service and get it out there for people like you to read. I already have several classmates asking me when they can read it. I’ll be interested to get their feedback.

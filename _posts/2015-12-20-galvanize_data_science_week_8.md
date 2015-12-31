@@ -7,8 +7,6 @@ tags: featured datascience galvanize bootcamp
 image:
 ---
 
-#Week 8 - Big Data
-
 **Day 33: Amazon Web Services, Parallel and Concurrent Programming**  
 We all know we can buy books, movies, computers, clothes and several other items we don’t need on Amazon. Something else Amazon sells is storage and computing power on its vast array of servers under the name Amazon Web Services (AWS). AWS allows us to store very large files or datasets in the cloud. It also allows us to use multiple computers/processors in the cloud to scale our computing power much higher than we could on our local machine.
 

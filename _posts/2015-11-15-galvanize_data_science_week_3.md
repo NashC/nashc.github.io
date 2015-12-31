@@ -7,9 +7,6 @@ tags: featured datascience galvanize bootcamp
 image:
 ---
 
-#Week 3 - Linear Regression and EDA
-
-
 This week was a flash introduction to the topic of regression. The previous weeks were spent teaching us how to get data on our computer in a workable form using Python. This week we began learning how to use that data to predict future results. As data scientists, or business people in general, we are interested in looking at past data to make strategic decisions about future courses of action. This could be predicting the conversion rate of a website, the profitability of a stock trading strategy, or the effectiveness of a experimental drug. Regression, in it’s multiple forms, is one of the primary techniques used in this effort.
 
 As some of you might know, the last weeks of the Galvanize program are spent on each student’s individual Capstone Project. This is a large data science project used to illustrate to others, especially potential employers, the skill and level of work of which each student is now capable. The two topics on my short list are finance and sports. I do a lot of options trading and would be interested in analyzing historical options and stock price data to predict future results. I also love sports and would like to do some analysis on NBA or NFL data to predict game outcomes and player performances. I’ll likely do my project on something finance related as that can show potential employers I know how to turn data into profitable business insights. But then I also plan to do a few shorter sports projects that could become future blog posts.

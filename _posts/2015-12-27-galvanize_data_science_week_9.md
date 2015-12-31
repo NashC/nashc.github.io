@@ -7,8 +7,6 @@ tags: featured datascience galvanize bootcamp
 image:
 ---
 
-#Week 9 - Case Studies & Christmas
-<br>
 This is a shortened week due to Christmas being on Friday. We’re spending Monday and Tuesday doing a Fraud Detection case study. Wednesday will consist of the final assessment covering all the material of the class to date, and a short meeting to discuss our capstone projects.
 
 

@@ -7,8 +7,6 @@ tags: featured datascience galvanize bootcamp
 image:
 ---
 
-#Week 7 - Special Topics
-
 **Day 28: Recommendation Systems**  
 If you use the internet, chances are you’ve ran into at least one recommendation system. If you’ve bought a book on Amazon, it shows you other books that people who bought that book also like. On Netflix, it will show you other movies that people who liked specific movie also have liked. On your iPhone, it will suggest other Apps to download based on ones you already have. Therefore, we’re all at least peripherally familiar with recommendation systems; or at least their output. How they are generated is another story.
 
@@ -74,14 +72,14 @@ Have you ever looked at a graph of [Apple’s stock price] (http://yhoo.it/1UaaC
 
 In the exercises we used [Statsmodels time series module] (http://statsmodels.sourceforge.net/devel/tsa.html) to analyze ride sharing data. The implementation of this was kind of difficult. Our instructor said R is much better than Python for time series analysis. If you’ve learned this much Python, then learning how to do it in R shouldn’t be too hard. I’m excited to dig into this topic more after the class finishes and see if I can apply it to developing algorithms to automate stock and option trading.
 
-Day 31: Graphs
+**Day 31: Graphs**  
 We’re not talking about the normal type of graphs you’re thinking about. In math, a [graph] (https://en.wikipedia.org/wiki/Graph_(mathematics)) is a representation of links and vertices. We used the example of Facebook friends in class. Each person is a vertex and every friend connection is a link between those two vertices. Below is a picture of all the friend connections on Facebook, based on the user’s location.
 
 In the exercises, we used the NetworkX library (https://networkx.github.io/) to develop and analyze our graphs. We then used the software [Gephi] (http://gephi.org/) to visualize the graphs we made. This was a pretty interesting topic, but some of the math around calculating the connections can get a little crazy.
 
 ![Facebook Friend Graph](http://nashc.github.io/assets/images/facebook_graph.png)
 
-Day 32: Data Visualization
+**Day 32: Data Visualization**  
 Everyone loves a good data visualization. It allows even non-tech, non-data people to consume information. As a data scientist, visualizations allow you to communicate your findings to others. It is therefore a very valuable skill in our toolbox.
 
 Being a finance guy, [this is one of my favorite visualizations] (http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html) that puts the Facebook IPO into perspective versus other past offerings. If you like history, international studies and/or economics, I also really enjoy [this] (www.gapminder.org/world) interactive visualization.

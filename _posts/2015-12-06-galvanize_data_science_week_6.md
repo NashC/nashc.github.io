@@ -7,8 +7,6 @@ tags: featured datascience galvanize bootcamp
 image:
 ---
 
-#Week 6 - NLP and Unsupervised Learning
-
 Rough time getting started again after nearly a week off. Luckily, we only have a few more weeks until Christmas break. It really feels like I’m in school again now that I’m heavily looking forward to time off based on academic calendars.
 
 This week we are focusing on [Natural Language Processing (NLP)] (https://en.wikipedia.org/wiki/Natural_language_processing) and [Unsupervised Learning] (https://en.wikipedia.org/wiki/Unsupervised_learning).
@@ -52,7 +50,7 @@ We also started talking about ideas for our capstone projects. We spent time bou
 * Analyzing data from [Crunchbase] (www.crunchbase.com) on different startups, funding rounds, industry, venture capital firms invested, founders, and other data to predict future company success (IPO, next funding round, acquisition).
 * Use historical economic indicator data on multiple countries from the [WorldBank] (data.worldbank.org) to figure out the most important factors in predicting Per Capita GDP, Employment Rate, Educational Rates, Lifespan, or some other interesting predictions.
 
-**Summary**  
+**Weekly Summary**  
 Web scraping on Monday was pretty easy as I was already familiar with HTML/CSS. I also did a [practice project] (www.nashcollins.com/stockmarket) this past summer  where I pulled data from the Yahoo Finance API to update a quote and price graph for a given stock. However, after Monday it got a little tougher. NLP is a pretty interesting topic. We interact with it online so often, it was cool to get an introduction to how it works behind the scenes. For several exercises we analyzed articles from the New York Times. The topic that is most challenging for me, and the one for which I wish I had more preparation, is working with large matrices of information. For the entire week we turned text into vectors of numbers. Then assembled those vectors into large matrices. Then we broke down the big matrix into smaller ones using PCA, SVD or NMF. I’d usually start to get a solid grasp on each day’s topic near the end of the afternoon sprint. For someone who hasn’t taken a math class in over 10 years, working on problems in code is the most effective teacher.
 
 They tell you coding bootcamps are like drinking from a firehouse. I can definitely attest to that. We spend one day on a topic on which you could spend a whole month. But I’m still enjoying it and am learning faster than I thought I could.

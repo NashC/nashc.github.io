@@ -7,8 +7,6 @@ tags: featured datascience galvanize bootcamp
 image:
 ---
 
-#Week 5 - Thanksgiving
-
 I certainly am thankful that we get several days off for Thanksgiving. I was mentioning to a classmate the other day how nicely the holidays fit into our class schedule. We have Thanksgiving about one month in, and then Christmas and New Years a month later. This effectively segments our course into thirds with a multi-day break each time.
 
 I’m writing this on the Friday after Thanksgiving at my Mom’s house. We had tons of food and football. During the break, I’ve been re-watching [Andrew Ng’s famous Machine Learning Course on Coursera] (https://www.coursera.org/learn/machine-learning). I first watched several of the class videos back in September when I was preparing for the admissions interviews. The difference now is that I understand pretty much everything he’s talking about. The lectures really do feel like review instead of new topics.
@@ -68,5 +66,5 @@ It was interesting going through the entire process of trying to gain useful ins
 **Day 22: Review (Optional Day)**  
 I choose to start my Thanksgiving break early and take today off. The instructors said it was an optional day as they were going to be doing review. I find I don’t get too much out of lecture style review sessions, as I learn this type of material better when doing projects/exercises.
 
-**Summary**  
+**Weekly Summary**  
 I’ve still got two and half more days to rest until class restarts and I begin dreaming about python code and scatter matrix plots. I was talking to my mom this morning about some of the things I’ve been studying. She was in awe of the skills we’ve been learning and that we can learn them in such a short period of time. This later turned to a discussion of unemployment in the United States and how we often read that it’s not that there aren’t enough jobs, it’s that there aren’t enough qualified workers. I know in the San Francisco Bay Area there are tons of openings for data scientists and web developers, but there aren’t enough applicants with the skills to fill them. It’s companies like [Galvanize] (www.galvanize.com), [Hack Reactor] (www.hackreactor.com), [Dev Bootcamp] (www.devbootcamp.com), [Metis] (www.thisismetis.com), [General Assembly] (https://generalassemb.ly) and many others, that are helping to fill this skill gap, at least in the areas of computer science. I believe these courses, along with MOOC’s on [Coursera] (www.coursera.com), [Khan Academy] (www.khanacademy.org), [Udemy] (www.udemy.com), [Udacity] (www.udacity.com), are the beginning of the evolution of the educational system in the United States and the world at large. I’m grateful to be one of the early adopters of these new methods and have 2-3 standard deviations of confidence it will turn out to have been a good choice.

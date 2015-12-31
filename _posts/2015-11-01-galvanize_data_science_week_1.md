@@ -7,8 +7,6 @@ tags: featured datascience galvanize bootcamp
 image:
 ---
 
-#Week 1 - And So It Begins
-
 I’ve just finished the first week of the Galvanize Data Science Immersive Program. It was a dramatic introduction to a few of the fundamental tools in a Data Scientists toolbox. I’d say it was akin to being thrown into the deep end of the pool when you were five years old and told to start swimming. Difficulties aside, I learned a ton and had a lot of fun. I also enjoyed meeting all my  new classmates and learning about their diverse backgrounds. In this post I’ll outline the daily schedule of lectures and coding sprints, the topics taught each day and my general thoughts surrounding the first week of class.
 
 ###Typical Daily Schedule
@@ -43,6 +41,5 @@ Thursday was on Pandas. This is a Python library allowing you to have all the da
 **Day 5: Moneyball, Pandas and Happy Hour**  
 The final day of week one had more Pandas exercises. The instructors said Pandas becomes and essential part of your data science workflow and is heavily used for EDA (Exploratory Data Analysis). We used Pandas to work on a baseball statistics dataset. We had to find effective players for the lowest amount of money. It’s similar to the work done by Billy Beane, the General Manager of the Oakland A’s since 1989. It was also the focus of the movie Moneyball (link here) staring Brad Pitt and Jonah Hill. Billy was the first MLB executive to heavily rely on player statistics and analytics to draft and assemble talent. This was a lot of fun for me as I’m a huge sports fan. The day ended with a happy hour for the students not the rooftop. It was nice to relax and get a chance to discuss non-school topics with my peers.
 
-
-###Week 1 Summary
+**Weekly Summary**  
 I started the week a little nervous as I didn’t know what to expect and wasn’t 100% sure how I’d react under the bootcamp environment. But following the end of the week I’m very optimistic for the rest of the program. I know I can keep up with the pace and am excited about what I’m going to learn in the weeks to come. Many of my classmates have Ph.D’s in topics like Physics or Bioinformatics, so I know I’ll be pushed academically. If I can hang with them, I think I’ll do alright.

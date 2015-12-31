@@ -7,11 +7,7 @@ tags: featured datascience galvanize bootcamp
 image:
 ---
 
-#Week 2 - Statistics and Probability
-
-
 >**"Do or do not. There is no try." _- Yoda_**
-
 
 For me, the second week was more comfortable than the first. During the first week, we were all trying to get our bearings, meet our classmates, adjust to our new schedule and figure out if we even belonged in this program. Well, I now know most of my classmates; I know the daily routine and have made sure I’m ready for each day’s quiz and topic; and I learned that even though I don’t have an extensive background in coding or statistics, that I can keep up and excel in this class. This week focused on probability and statistics. I studied these topics very heavily for the technical interviews only a few weeks back, so most of the material was still fresh in my head. After last week’s work with Pandas and this week’s new tools of Frequentist and Bayesian analysis, I’m now confident I can do some basic data analysis of a given data set on my own. I can put the data into a Pandas Dataframe, clean and organize it, calculate some averages, min/max, correlation or some other statistics of interest, and lastly evaluate whether or not I can act on my findings by determining their statistical significance. Believe it or not, I feel like I’m on my way to becoming a Data Scientist.
 
