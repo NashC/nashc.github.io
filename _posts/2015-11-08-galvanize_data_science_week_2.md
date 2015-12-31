@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 12 - Statistics and Probability"
+title:  "Week 2 - Statistics and Probability"
 date:   2015-11-08 12:00:00
 categories: feature
 tags: featured datascience galvanize bootcamp
