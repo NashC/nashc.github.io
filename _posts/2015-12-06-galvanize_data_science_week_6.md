@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 6 - NLP and Unsupervised Learning"
 date:   2015-12-06 12:00:00
-categories: feature
+categories:
 tags: featured datascience galvanize bootcamp
 image:
 ---

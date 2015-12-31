@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 5 - Thanksgiving"
 date:   2015-11-29 12:00:00
-categories: feature
+categories:
 tags: featured datascience galvanize bootcamp
 image:
 ---

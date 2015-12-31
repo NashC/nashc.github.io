@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 4 - Supervised Learning"
 date:   2015-11-22 12:00:00
-categories: feature
+categories:
 tags: featured datascience galvanize bootcamp
 image:
 ---
