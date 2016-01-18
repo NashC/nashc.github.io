@@ -3,7 +3,7 @@ layout: post
 title:  "Week 8 - Big Data"
 date:   2015-12-20 12:00:00
 categories:
-tags: featured datascience galvanize bootcamp
+tags: datascience galvanize bootcamp
 image:
 ---
 

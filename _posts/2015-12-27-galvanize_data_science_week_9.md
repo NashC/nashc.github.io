@@ -3,7 +3,7 @@ layout: post
 title:  "Week 9 - Case Study and Christmas"
 date:   2015-12-27 12:00:00
 categories:
-tags: featured datascience galvanize bootcamp
+tags: datascience galvanize bootcamp
 image:
 ---
 

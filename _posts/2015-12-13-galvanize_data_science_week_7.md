@@ -3,7 +3,7 @@ layout: post
 title:  "Week 7 - Special Topics"
 date:   2015-12-13 12:00:00
 categories:
-tags: featured datascience galvanize bootcamp
+tags: datascience galvanize bootcamp
 image:
 ---
 
