@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 3 - Linear Regression and EDA
+title:  "Week 3 - Linear Regression and EDA"
 date:   2015-11-15 12:00:00
 categories:
 tags: datascience galvanize bootcamp
